@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">EazyHop</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="source">
+        <item>Hebbala Bridge</item>
+        <item>Manyatha Tech Park</item>
+        <item>Kalyananagara Bus Stand</item>
+        <item>Ramamurthy Nagara</item>
+        <item>K R Puram</item>
+        <item>EMC2</item>
+        <item>Marathahalli Bridge</item>
+        <item>New Horizon College of Engineering</item>
+        <item>Bellanduru</item>
+        <item>Sarjapura Cross</item>
+        <item>Central Silk Board</item>
+    </string-array>
+
+    <string-array name="destination">
+        <item>Hebbala Bridge</item>
+        <item>Manyatha Tech Park</item>
+        <item>Kalyananagara Bus Stand</item>
+        <item>Ramamurthy Nagara</item>
+        <item>K R Puram</item>
+        <item>EMC2</item>
+        <item>Marathahalli Bridge</item>
+        <item>New Horizon College of Engineering</item>
+        <item>Bellanduru</item>
+        <item>Sarjapura Cross</item>
+        <item>Central Silk Board</item>
+    </string-array>
+
+
+    <string-array name="airport">
+        <item>Bengaluru Dairy Circle</item>
+        <item>Wilson Garden Police Station</item>
+        <item>Mekhri Circle</item>
+        <item>Hebbala</item>
+        <item>Allalasandra Gate</item>
+        <item>Kogilu Cross</item>
+        <item>Sadahalli Gate</item>
+    </string-array>
+
+    <!--<array name="destination">
+        <item>Hebbala Bridge</item>
+        <item>Kempapura</item>
+        <item>Veeranna Palya</item>
+        <item>Manyatha Tech Park</item>
+        <item>Nagavara Junction</item>
+        <item>Hbr Layout</item>
+        <item>Hennuru Junction</item>
+        <item>Kalyananagara Bus Stand</item>
+        <item>Kalyananagara 80 Feet Road</item>
+        <item>Babusabpalya</item>
+        <item>Horamavu</item>
+        <item>Vijaya Bank Colony</item>
+        <item>Ramamurthy Nagara</item>
+        <item>Kasturi Nagara</item>
+        <item>Tin Factory</item>
+        <item>K R Puram</item>
+        <item>B Narayanapura</item>
+        <item>Mahadevapura</item>
+        <item>EMC2</item>
+        <item>Doddanekkundi</item>
+        <item>Karthik Nagar</item>
+        <item>Kala Mandir Marathalli</item>
+        <item>Marathahalli Bridge</item>
+        <item>Innovative Multiplex</item>
+        <item>Kadubeesanahalli</item>
+        <item>New Horizon College of Engineering</item>
+        <item>Devrabisanahalli</item>
+        <item>Ecospace</item>
+        <item>Bellanduru</item>
+        <item>Petrol Bunk</item>
+        <item>Sarjapura Cross</item>
+        <item>Ibbalur</item>
+        <item>Agara Junction</item>
+        <item>Depot-25</item>
+        <item>HSR layout 14th Main Rd</item>
+        <item>HSR Appartment</item>
+        <item>Central Silk Board</item>
+
+    </array>
+
+    <array name="source">
+        <item>Hebbala Bridge</item>
+        <item>Kempapura</item>
+        <item>Veeranna Palya</item>
+        <item>Manyatha Tech Park</item>
+        <item>Nagavara Junction</item>
+        <item>Hbr Layout</item>
+        <item>Hennuru Junction</item>
+        <item>Kalyananagara Bus Stand</item>
+        <item>Kalyananagara 80 Feet Road</item>
+        <item>Babusabpalya</item>
+        <item>Horamavu</item>
+        <item>Vijaya Bank Colony</item>
+        <item>Ramamurthy Nagara</item>
+        <item>Kasturi Nagara</item>
+        <item>Tin Factory</item>
+        <item>K R Puram</item>
+        <item>B Narayanapura</item>
+        <item>Mahadevapura</item>
+        <item>EMC2</item>
+        <item>Doddanekkundi</item>
+        <item>Karthik Nagar</item>
+        <item>Kala Mandir Marathalli</item>
+        <item>Marathahalli Bridge</item>
+        <item>Innovative Multiplex</item>
+        <item>Kadubeesanahalli</item>
+        <item>New Horizon College of Engineering</item>
+        <item>Devrabisanahalli</item>
+        <item>Ecospace</item>
+        <item>Bellanduru</item>
+        <item>Petrol Bunk</item>
+        <item>Sarjapura Cross</item>
+        <item>Ibbalur</item>
+        <item>Agara Junction</item>
+        <item>Depot-25</item>
+        <item>HSR layout 14th Main Rd</item>
+        <item>HSR Appartment</item>
+        <item>Central Silk Board</item>
+    </array>-->
+
+    <string-array name="idType">
+        <item>Driving License</item>
+        <item>Aadhar Card</item>
+        <item>Pan Card</item>
+        <item>BMTC ID</item>
+    </string-array>
+
+    <string-array name="adultsno">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+
+    </string-array>
+
+    <string-array name="childno">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="seniorno">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>

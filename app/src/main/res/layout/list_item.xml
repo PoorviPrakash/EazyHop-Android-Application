@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">-->
+
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/cardview_default_elevation">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/IGV1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:id="@+id/listText1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textAlignment="center"
+                android:layout_marginTop="10dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:textColor="#f2852d"/>
+
+            <TextView
+                android:id="@+id/listSubText1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text=""
+                android:textAlignment="center"
+                android:textColor="#FF5B5656"/>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+   <!--- <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/cardview_default_elevation">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/IGV2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_card_membership_black_24dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:id="@+id/listText2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="My Pass"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textSize="18dp"
+                android:textColor="#f2852d"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:id="@+id/listSubText2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Day Pass, Montly Pass"
+                android:textAlignment="center"
+                android:textColor="#FF5B5656"
+                tools:ignore="DuplicateIds"
+                android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/cardview_default_elevation">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/IGV3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_assignment_ind_black_24dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:id="@+id/listText3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/alegreya"
+                android:text="My ID"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textAlignment="center"
+                android:textSize="18dp"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:textColor="#f2852d"/>
+
+            <TextView
+                android:id="@+id/listSubText3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Driving Licenese, BMTC ID"
+                android:textAlignment="center"
+                android:layout_marginTop="10dp"
+                android:textColor="#FF5B5656"/>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/cardview_default_elevation">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/IGV4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_history_black_24dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:id="@+id/listText4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/alegreya"
+                android:text="My Ticket History"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:textSize="18dp"
+                android:textAlignment="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:textColor="#f2852d"/>
+
+            <TextView
+                android:id="@+id/listSubText4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Previous purchases"
+                android:textAlignment="center"
+                android:textColor="#FF5B5656"
+                android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>-->

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "664671706807",
+    "firebase_url": "https://eazyhop.firebaseio.com",
+    "project_id": "eazyhop",
+    "storage_bucket": "eazyhop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664671706807:android:6262fbeb43dc48a3",
+        "android_client_info": {
+          "package_name": "com.example.poorviprakash.eazyhop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664671706807-huv44nipa0lkkcccfpmvtippri7mtff9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poorviprakash.eazyhop",
+            "certificate_hash": "0cddbe8164a09a83be95886df9d290813f272301"
+          }
+        },
+        {
+          "client_id": "664671706807-npnha6a33ngnjqhfnho3n7ji9biaohau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnnOTgPwjwnYxMwQQpyENjGEXadkn7LkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664671706807-npnha6a33ngnjqhfnho3n7ji9biaohau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
